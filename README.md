@@ -16,7 +16,7 @@
 
 ```sh
 # clone project in a folder
-$ git clone git@github.com:basir/support-desk-react-socket-io-final.git
+$ git clone git@github.com:pankaj6162/support-desk-app-master-final.git
 # open folder in vs code
 $ cd support-desk-react-socket-io-final
 $ code .
